@@ -10,6 +10,7 @@ Timur Sahin's Certification Catalog
 * Tools for Data Science
 * Data Science Methodology
 * Python for Data Science and AI
+* Databases and SQL for Data Science
 
 ## University of Michigan Ann Arbor 
 * Introduction to Data Science in Python
