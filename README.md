@@ -14,3 +14,6 @@ Timur Sahin's Certification Catalog
 ## Johns Hopkins University - Data Science
 * [The Data Scientist's Toolbox](JHU/01_TheDataScientistsToolbox.pdf)
 * [R Programming](JHU/02_RProgramming.pdf)
+
+## Miscellaneous
+* [Mental Health First Aid](Misc/MentalHealthFirstAid.pdf)
