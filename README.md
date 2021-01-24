@@ -10,8 +10,9 @@ Timur Sahin's Certification Catalog
 * [Data Analysis with Python](IBM/06_DataAnalysisWithPython.pdf)
 * [Data Visualization with Python](IBM/07_DataVisualizationWithPython.pdf)
 
-## University of Michigan Ann Arbor - Applied Data Science with Python
+## University of Michigan - Applied Data Science with Python
 * [Introduction to Data Science in Python](UMich/01_IntroToDataScience.pdf)
+* [Applied Plotting, Charting, and Data Representation in Python](UMich/02_AppliedPlottingChartingAndDataRep.pdf)
 
 ## Johns Hopkins University - Data Science
 * [The Data Scientist's Toolbox](JHU/01_TheDataScientistsToolbox.pdf)
