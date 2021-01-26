@@ -11,12 +11,13 @@ Timur Sahin's Certification Catalog
 * [Data Visualization with Python](IBM/07_DataVisualizationWithPython.pdf)
 * [Machine Learning with Python](IBM/08_MachineLearningWithPython.pdf)
 
-## University of Michigan Ann Arbor - Applied Data Science with Python
+## University of Michigan - Applied Data Science with Python
 * [Introduction to Data Science in Python](UMich/01_IntroToDataScience.pdf)
+* [Applied Plotting, Charting, and Data Representation in Python](UMich/02_AppliedPlottingChartingAndDataRep.pdf)
 
 ## Johns Hopkins University - Data Science
 * [The Data Scientist's Toolbox](JHU/01_TheDataScientistsToolbox.pdf)
 * [R Programming](JHU/02_RProgramming.pdf)
 
 ## Miscellaneous
-* [Mental Health First Aid](Misc/MentalHealthFirstAid.pdf)
+* [Mental Health First Aid](Misc/MentalHealthFirstAid.pdf), National Council for Behavioral Health
