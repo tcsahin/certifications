@@ -9,6 +9,7 @@ Timur Sahin's Certification Catalog
 * [Databases and SQL for Data Science](IBM/05_DatabasesAndSQLForDataScience.pdf)
 * [Data Analysis with Python](IBM/06_DataAnalysisWithPython.pdf)
 * [Data Visualization with Python](IBM/07_DataVisualizationWithPython.pdf)
+* [Machine Learning with Python](IBM/08_MachineLearningWithPython.pdf)
 
 ## University of Michigan Ann Arbor - Applied Data Science with Python
 * [Introduction to Data Science in Python](UMich/01_IntroToDataScience.pdf)
