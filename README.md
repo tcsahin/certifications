@@ -25,3 +25,4 @@ Timur Sahin's Certification Catalog
 
 ## Miscellaneous
 * [Mental Health First Aid](Misc/MentalHealthFirstAid.pdf), National Council for Behavioral Health
+* [Covid-19 Contact Tracing](Misc/JHU-Covid19ContactTracing.pdf), Johns Hopkin University
